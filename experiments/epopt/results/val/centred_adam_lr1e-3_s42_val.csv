@@ -1,0 +1,17 @@
+item,arm,model,opt,lr,seed,split,epoch,metric,value
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,0,val_acc,0.103
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,1,epoch_seconds,35.37986612319946
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,1,val_acc,0.8309
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,2,epoch_seconds,25.338062047958374
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,2,val_acc,0.8454
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,3,epoch_seconds,25.68333101272583
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,4,epoch_seconds,25.390421867370605
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,4,val_acc,0.8584
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,5,epoch_seconds,25.629223823547363
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,6,epoch_seconds,25.716475009918213
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,6,val_acc,0.8676
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,7,epoch_seconds,25.713605880737305
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,8,epoch_seconds,25.18323802947998
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,8,val_acc,0.8683
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,8,collapsed,0.0
+LIEP-EPOPT,centred_adam,centred,adam,0.0010000000474974513,42,val,-1,total_seconds,232.62707686424255

@@ -1,0 +1,3 @@
+item,arm,model,seed,metric,value
+LIEP-REGEN,bp_pretrain,clean,66,acc_ep,0.8606
+LIEP-REGEN,bp_pretrain,clean,66,acc_ff,0.8651

@@ -1,0 +1,5 @@
+.git
+deps/PhasorNetworks.jl/.git
+**/__pycache__
+liep.tar
+*.sif

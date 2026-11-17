@@ -1,0 +1,5 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,probe,centred,456,0,"",test_acc,0.8622
+LIEP-BASE,probe,centred,456,1,"",test_acc,0.8696
+LIEP-BASE,probe,centred,456,4,"",test_acc,0.8745
+LIEP-BASE,probe,centred,456,8,"",test_acc,0.8773

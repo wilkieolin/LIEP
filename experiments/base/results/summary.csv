@@ -1,0 +1,373 @@
+item,arm,model,epoch,setting,metric,value
+LIEP-BASE,logreg,pixels,30,lr=0.001 wd=0.001,test_acc_median,0.8427
+LIEP-BASE,logreg,pixels,30,lr=0.001 wd=0.001,test_acc_min,0.8398
+LIEP-BASE,logreg,pixels,30,lr=0.001 wd=0.001,test_acc_max,0.8454
+LIEP-BASE,logreg,pixels,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,logreg,phase,30,lr=0.001 wd=0.001,test_acc_median,0.8623
+LIEP-BASE,logreg,phase,30,lr=0.001 wd=0.001,test_acc_min,0.8595
+LIEP-BASE,logreg,phase,30,lr=0.001 wd=0.001,test_acc_max,0.8647
+LIEP-BASE,logreg,phase,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,sin,30,lr=0.001 wd=0.001,test_acc_median,0.851
+LIEP-BASE,lrbasis,sin,30,lr=0.001 wd=0.001,test_acc_min,0.8499
+LIEP-BASE,lrbasis,sin,30,lr=0.001 wd=0.001,test_acc_max,0.8516
+LIEP-BASE,lrbasis,sin,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,pixels,30,lr=0.001 wd=0.001,test_acc_median,0.8427
+LIEP-BASE,lrbasis,pixels,30,lr=0.001 wd=0.001,test_acc_min,0.8398
+LIEP-BASE,lrbasis,pixels,30,lr=0.001 wd=0.001,test_acc_max,0.8454
+LIEP-BASE,lrbasis,pixels,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,z,30,lr=0.001 wd=0.001,test_acc_median,0.8448
+LIEP-BASE,lrbasis,z,30,lr=0.001 wd=0.001,test_acc_min,0.8437
+LIEP-BASE,lrbasis,z,30,lr=0.001 wd=0.001,test_acc_max,0.8449
+LIEP-BASE,lrbasis,z,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,cos,30,lr=0.001 wd=0.001,test_acc_median,0.7894
+LIEP-BASE,lrbasis,cos,30,lr=0.001 wd=0.001,test_acc_min,0.7886
+LIEP-BASE,lrbasis,cos,30,lr=0.001 wd=0.001,test_acc_max,0.7895
+LIEP-BASE,lrbasis,cos,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,tanh,30,lr=0.001 wd=0.001,test_acc_median,0.8501
+LIEP-BASE,lrbasis,tanh,30,lr=0.001 wd=0.001,test_acc_min,0.8498
+LIEP-BASE,lrbasis,tanh,30,lr=0.001 wd=0.001,test_acc_max,0.8523
+LIEP-BASE,lrbasis,tanh,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,xx2,30,lr=0.001 wd=0.0,test_acc_median,0.8461
+LIEP-BASE,lrbasis,xx2,30,lr=0.001 wd=0.0,test_acc_min,0.8446
+LIEP-BASE,lrbasis,xx2,30,lr=0.001 wd=0.0,test_acc_max,0.85
+LIEP-BASE,lrbasis,xx2,30,lr=0.001 wd=0.0,test_acc_n,3
+LIEP-BASE,lrbasis,zz2,30,lr=0.001 wd=0.001,test_acc_median,0.8548
+LIEP-BASE,lrbasis,zz2,30,lr=0.001 wd=0.001,test_acc_min,0.8521
+LIEP-BASE,lrbasis,zz2,30,lr=0.001 wd=0.001,test_acc_max,0.8565
+LIEP-BASE,lrbasis,zz2,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,cossin_raw,30,lr=0.001 wd=0.001,test_acc_median,0.8623
+LIEP-BASE,lrbasis,cossin_raw,30,lr=0.001 wd=0.001,test_acc_min,0.8595
+LIEP-BASE,lrbasis,cossin_raw,30,lr=0.001 wd=0.001,test_acc_max,0.8647
+LIEP-BASE,lrbasis,cossin_raw,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,lrbasis,cossin,30,lr=0.001 wd=0.001,test_acc_median,0.8565
+LIEP-BASE,lrbasis,cossin,30,lr=0.001 wd=0.001,test_acc_min,0.8521
+LIEP-BASE,lrbasis,cossin,30,lr=0.001 wd=0.001,test_acc_max,0.8586
+LIEP-BASE,lrbasis,cossin,30,lr=0.001 wd=0.001,test_acc_n,3
+LIEP-BASE,phasor_bp,784-256-64,0,,test_acc_median,0.1002
+LIEP-BASE,phasor_bp,784-256-64,0,,test_acc_min,0.1
+LIEP-BASE,phasor_bp,784-256-64,0,,test_acc_max,0.1037
+LIEP-BASE,phasor_bp,784-256-64,0,,test_acc_n,3
+LIEP-BASE,phasor_bp,784-256-64,1,,test_acc_median,0.8355
+LIEP-BASE,phasor_bp,784-256-64,1,,test_acc_min,0.8248
+LIEP-BASE,phasor_bp,784-256-64,1,,test_acc_max,0.8366
+LIEP-BASE,phasor_bp,784-256-64,1,,test_acc_n,3
+LIEP-BASE,phasor_bp,784-256-64,4,,test_acc_median,0.8614
+LIEP-BASE,phasor_bp,784-256-64,4,,test_acc_min,0.8614
+LIEP-BASE,phasor_bp,784-256-64,4,,test_acc_max,0.8615
+LIEP-BASE,phasor_bp,784-256-64,4,,test_acc_n,3
+LIEP-BASE,phasor_bp,784-256-64,8,,test_acc_median,0.8674
+LIEP-BASE,phasor_bp,784-256-64,8,,test_acc_min,0.8665
+LIEP-BASE,phasor_bp,784-256-64,8,,test_acc_max,0.8688
+LIEP-BASE,phasor_bp,784-256-64,8,,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-10,0,epochs=8,test_acc_median,0.0831
+LIEP-BASE,relu_bp,784-256-10,0,epochs=8,test_acc_min,0.0699
+LIEP-BASE,relu_bp,784-256-10,0,epochs=8,test_acc_max,0.1535
+LIEP-BASE,relu_bp,784-256-10,0,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-10,1,epochs=8,test_acc_median,0.8567
+LIEP-BASE,relu_bp,784-256-10,1,epochs=8,test_acc_min,0.8541
+LIEP-BASE,relu_bp,784-256-10,1,epochs=8,test_acc_max,0.8582
+LIEP-BASE,relu_bp,784-256-10,1,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-10,4,epochs=8,test_acc_median,0.8769
+LIEP-BASE,relu_bp,784-256-10,4,epochs=8,test_acc_min,0.8755
+LIEP-BASE,relu_bp,784-256-10,4,epochs=8,test_acc_max,0.8803
+LIEP-BASE,relu_bp,784-256-10,4,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-10,8,epochs=8,test_acc_median,0.885
+LIEP-BASE,relu_bp,784-256-10,8,epochs=8,test_acc_min,0.8804
+LIEP-BASE,relu_bp,784-256-10,8,epochs=8,test_acc_max,0.8853
+LIEP-BASE,relu_bp,784-256-10,8,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=8,test_acc_median,0.1029
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=8,test_acc_min,0.0731
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=8,test_acc_max,0.117
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=8,test_acc_median,0.8573
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=8,test_acc_min,0.8542
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=8,test_acc_max,0.8573
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=8,test_acc_median,0.8786
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=8,test_acc_min,0.8757
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=8,test_acc_max,0.8809
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=8,test_acc_median,0.8828
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=8,test_acc_min,0.8812
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=8,test_acc_max,0.8843
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-256-10,0,epochs=30,test_acc_median,0.0699
+LIEP-BASE,relu_bp,784-256-10,0,epochs=30,test_acc_min,0.0699
+LIEP-BASE,relu_bp,784-256-10,0,epochs=30,test_acc_max,0.0699
+LIEP-BASE,relu_bp,784-256-10,0,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-10,1,epochs=30,test_acc_median,0.8567
+LIEP-BASE,relu_bp,784-256-10,1,epochs=30,test_acc_min,0.8567
+LIEP-BASE,relu_bp,784-256-10,1,epochs=30,test_acc_max,0.8567
+LIEP-BASE,relu_bp,784-256-10,1,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-10,4,epochs=30,test_acc_median,0.8803
+LIEP-BASE,relu_bp,784-256-10,4,epochs=30,test_acc_min,0.8803
+LIEP-BASE,relu_bp,784-256-10,4,epochs=30,test_acc_max,0.8803
+LIEP-BASE,relu_bp,784-256-10,4,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-10,8,epochs=30,test_acc_median,0.8804
+LIEP-BASE,relu_bp,784-256-10,8,epochs=30,test_acc_min,0.8804
+LIEP-BASE,relu_bp,784-256-10,8,epochs=30,test_acc_max,0.8804
+LIEP-BASE,relu_bp,784-256-10,8,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-10,30,epochs=30,test_acc_median,0.8869
+LIEP-BASE,relu_bp,784-256-10,30,epochs=30,test_acc_min,0.8869
+LIEP-BASE,relu_bp,784-256-10,30,epochs=30,test_acc_max,0.8869
+LIEP-BASE,relu_bp,784-256-10,30,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=30,test_acc_median,0.1029
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=30,test_acc_min,0.1029
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=30,test_acc_max,0.1029
+LIEP-BASE,relu_bp,784-256-64-10,0,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=30,test_acc_median,0.8542
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=30,test_acc_min,0.8542
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=30,test_acc_max,0.8542
+LIEP-BASE,relu_bp,784-256-64-10,1,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=30,test_acc_median,0.8757
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=30,test_acc_min,0.8757
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=30,test_acc_max,0.8757
+LIEP-BASE,relu_bp,784-256-64-10,4,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=30,test_acc_median,0.8812
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=30,test_acc_min,0.8812
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=30,test_acc_max,0.8812
+LIEP-BASE,relu_bp,784-256-64-10,8,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-256-64-10,30,epochs=30,test_acc_median,0.8869
+LIEP-BASE,relu_bp,784-256-64-10,30,epochs=30,test_acc_min,0.8869
+LIEP-BASE,relu_bp,784-256-64-10,30,epochs=30,test_acc_max,0.8869
+LIEP-BASE,relu_bp,784-256-64-10,30,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-500-10,0,epochs=8,test_acc_median,0.0918
+LIEP-BASE,relu_bp,784-500-10,0,epochs=8,test_acc_min,0.0532
+LIEP-BASE,relu_bp,784-500-10,0,epochs=8,test_acc_max,0.1251
+LIEP-BASE,relu_bp,784-500-10,0,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-500-10,1,epochs=8,test_acc_median,0.8587
+LIEP-BASE,relu_bp,784-500-10,1,epochs=8,test_acc_min,0.856
+LIEP-BASE,relu_bp,784-500-10,1,epochs=8,test_acc_max,0.8598
+LIEP-BASE,relu_bp,784-500-10,1,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-500-10,4,epochs=8,test_acc_median,0.8796
+LIEP-BASE,relu_bp,784-500-10,4,epochs=8,test_acc_min,0.8731
+LIEP-BASE,relu_bp,784-500-10,4,epochs=8,test_acc_max,0.8805
+LIEP-BASE,relu_bp,784-500-10,4,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-500-10,8,epochs=8,test_acc_median,0.8814
+LIEP-BASE,relu_bp,784-500-10,8,epochs=8,test_acc_min,0.881
+LIEP-BASE,relu_bp,784-500-10,8,epochs=8,test_acc_max,0.8835
+LIEP-BASE,relu_bp,784-500-10,8,epochs=8,test_acc_n,3
+LIEP-BASE,relu_bp,784-500-10,0,epochs=30,test_acc_median,0.1251
+LIEP-BASE,relu_bp,784-500-10,0,epochs=30,test_acc_min,0.1251
+LIEP-BASE,relu_bp,784-500-10,0,epochs=30,test_acc_max,0.1251
+LIEP-BASE,relu_bp,784-500-10,0,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-500-10,1,epochs=30,test_acc_median,0.8587
+LIEP-BASE,relu_bp,784-500-10,1,epochs=30,test_acc_min,0.8587
+LIEP-BASE,relu_bp,784-500-10,1,epochs=30,test_acc_max,0.8587
+LIEP-BASE,relu_bp,784-500-10,1,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-500-10,4,epochs=30,test_acc_median,0.8805
+LIEP-BASE,relu_bp,784-500-10,4,epochs=30,test_acc_min,0.8805
+LIEP-BASE,relu_bp,784-500-10,4,epochs=30,test_acc_max,0.8805
+LIEP-BASE,relu_bp,784-500-10,4,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-500-10,8,epochs=30,test_acc_median,0.8814
+LIEP-BASE,relu_bp,784-500-10,8,epochs=30,test_acc_min,0.8814
+LIEP-BASE,relu_bp,784-500-10,8,epochs=30,test_acc_max,0.8814
+LIEP-BASE,relu_bp,784-500-10,8,epochs=30,test_acc_n,1
+LIEP-BASE,relu_bp,784-500-10,30,epochs=30,test_acc_median,0.8901
+LIEP-BASE,relu_bp,784-500-10,30,epochs=30,test_acc_min,0.8901
+LIEP-BASE,relu_bp,784-500-10,30,epochs=30,test_acc_max,0.8901
+LIEP-BASE,relu_bp,784-500-10,30,epochs=30,test_acc_n,1
+LIEP-BASE,probe,lockin,0,,test_acc_median,0.8622
+LIEP-BASE,probe,lockin,0,,test_acc_min,0.8584
+LIEP-BASE,probe,lockin,0,,test_acc_max,0.8651
+LIEP-BASE,probe,lockin,0,,test_acc_n,3
+LIEP-BASE,probe,lockin,1,,test_acc_median,0.8722
+LIEP-BASE,probe,lockin,1,,test_acc_min,0.8704
+LIEP-BASE,probe,lockin,1,,test_acc_max,0.8734
+LIEP-BASE,probe,lockin,1,,test_acc_n,3
+LIEP-BASE,probe,lockin,4,,test_acc_median,0.8779
+LIEP-BASE,probe,lockin,4,,test_acc_min,0.875
+LIEP-BASE,probe,lockin,4,,test_acc_max,0.8781
+LIEP-BASE,probe,lockin,4,,test_acc_n,3
+LIEP-BASE,probe,lockin,8,,test_acc_median,0.88
+LIEP-BASE,probe,lockin,8,,test_acc_min,0.8788
+LIEP-BASE,probe,lockin,8,,test_acc_max,0.8807
+LIEP-BASE,probe,lockin,8,,test_acc_n,3
+LIEP-BASE,probe,centred,0,,test_acc_median,0.8622
+LIEP-BASE,probe,centred,0,,test_acc_min,0.8584
+LIEP-BASE,probe,centred,0,,test_acc_max,0.8651
+LIEP-BASE,probe,centred,0,,test_acc_n,3
+LIEP-BASE,probe,centred,1,,test_acc_median,0.8718
+LIEP-BASE,probe,centred,1,,test_acc_min,0.8696
+LIEP-BASE,probe,centred,1,,test_acc_max,0.8721
+LIEP-BASE,probe,centred,1,,test_acc_n,3
+LIEP-BASE,probe,centred,4,,test_acc_median,0.8765
+LIEP-BASE,probe,centred,4,,test_acc_min,0.8745
+LIEP-BASE,probe,centred,4,,test_acc_max,0.8778
+LIEP-BASE,probe,centred,4,,test_acc_n,3
+LIEP-BASE,probe,centred,8,,test_acc_median,0.8773
+LIEP-BASE,probe,centred,8,,test_acc_min,0.8772
+LIEP-BASE,probe,centred,8,,test_acc_max,0.8786
+LIEP-BASE,probe,centred,8,,test_acc_n,3
+LIEP-BASE,probe,phasorbp,0,,test_acc_median,0.8633
+LIEP-BASE,probe,phasorbp,0,,test_acc_min,0.8616
+LIEP-BASE,probe,phasorbp,0,,test_acc_max,0.8635
+LIEP-BASE,probe,phasorbp,0,,test_acc_n,3
+LIEP-BASE,probe,phasorbp,1,,test_acc_median,0.8771
+LIEP-BASE,probe,phasorbp,1,,test_acc_min,0.8754
+LIEP-BASE,probe,phasorbp,1,,test_acc_max,0.8795
+LIEP-BASE,probe,phasorbp,1,,test_acc_n,3
+LIEP-BASE,probe,phasorbp,4,,test_acc_median,0.8841
+LIEP-BASE,probe,phasorbp,4,,test_acc_min,0.8822
+LIEP-BASE,probe,phasorbp,4,,test_acc_max,0.8848
+LIEP-BASE,probe,phasorbp,4,,test_acc_n,3
+LIEP-BASE,probe,phasorbp,8,,test_acc_median,0.8861
+LIEP-BASE,probe,phasorbp,8,,test_acc_min,0.8849
+LIEP-BASE,probe,phasorbp,8,,test_acc_max,0.8865
+LIEP-BASE,probe,phasorbp,8,,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 clip,2,grid1,best_val_acc_e2,0.8262
+LIEP-BASE,standard_ep,784-256-10 clip,2,grid2,best_val_acc_e2,0.83
+LIEP-BASE,standard_ep,784-256-10 clip,-1,grid2 lr=0.02 beta=0.1,chosen,1
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=8,test_acc_median,0.0932
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=8,test_acc_min,0.0737
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=8,test_acc_max,0.098
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=8,test_acc_median,0.8169
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=8,test_acc_min,0.8101
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=8,test_acc_max,0.817
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=8,test_acc_median,0.8441
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=8,test_acc_min,0.8415
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=8,test_acc_max,0.8529
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=8,test_acc_median,0.8507
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=8,test_acc_min,0.8496
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=8,test_acc_max,0.8567
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=30,test_acc_median,0.098
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=30,test_acc_min,0.098
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=30,test_acc_max,0.098
+LIEP-BASE,standard_ep,784-256-10 clip,0,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=30,test_acc_median,0.8169
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=30,test_acc_min,0.8169
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=30,test_acc_max,0.8169
+LIEP-BASE,standard_ep,784-256-10 clip,1,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=30,test_acc_median,0.8415
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=30,test_acc_min,0.8415
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=30,test_acc_max,0.8415
+LIEP-BASE,standard_ep,784-256-10 clip,4,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=30,test_acc_median,0.8496
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=30,test_acc_min,0.8496
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=30,test_acc_max,0.8496
+LIEP-BASE,standard_ep,784-256-10 clip,8,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 clip,30,epochs=30,test_acc_median,0.8679
+LIEP-BASE,standard_ep,784-256-10 clip,30,epochs=30,test_acc_min,0.8679
+LIEP-BASE,standard_ep,784-256-10 clip,30,epochs=30,test_acc_max,0.8679
+LIEP-BASE,standard_ep,784-256-10 clip,30,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 half,2,grid1,best_val_acc_e2,0.8476
+LIEP-BASE,standard_ep,784-256-10 half,2,grid2,best_val_acc_e2,0.8476
+LIEP-BASE,standard_ep,784-256-10 half,-1,grid1 lr=0.1 beta=0.25,chosen,1
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=8,test_acc_median,0.0846
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=8,test_acc_min,0.0826
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=8,test_acc_max,0.098
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=8,test_acc_median,0.8325
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=8,test_acc_min,0.826
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=8,test_acc_max,0.833
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=8,test_acc_median,0.857
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=8,test_acc_min,0.8559
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=8,test_acc_max,0.8637
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=8,test_acc_median,0.8617
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=8,test_acc_min,0.8602
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=8,test_acc_max,0.8696
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=30,test_acc_median,0.098
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=30,test_acc_min,0.098
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=30,test_acc_max,0.098
+LIEP-BASE,standard_ep,784-256-10 half,0,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=30,test_acc_median,0.8325
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=30,test_acc_min,0.8325
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=30,test_acc_max,0.8325
+LIEP-BASE,standard_ep,784-256-10 half,1,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=30,test_acc_median,0.8559
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=30,test_acc_min,0.8559
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=30,test_acc_max,0.8559
+LIEP-BASE,standard_ep,784-256-10 half,4,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=30,test_acc_median,0.8602
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=30,test_acc_min,0.8602
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=30,test_acc_max,0.8602
+LIEP-BASE,standard_ep,784-256-10 half,8,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-256-10 half,30,epochs=30,test_acc_median,0.8742
+LIEP-BASE,standard_ep,784-256-10 half,30,epochs=30,test_acc_min,0.8742
+LIEP-BASE,standard_ep,784-256-10 half,30,epochs=30,test_acc_max,0.8742
+LIEP-BASE,standard_ep,784-256-10 half,30,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 clip,2,grid1,best_val_acc_e2,0.8315
+LIEP-BASE,standard_ep,784-500-10 clip,2,grid2,best_val_acc_e2,0.8393
+LIEP-BASE,standard_ep,784-500-10 clip,-1,grid2 lr=0.02 beta=0.1,chosen,1
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=8,test_acc_median,0.1074
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=8,test_acc_min,0.069
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=8,test_acc_max,0.1504
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=8,test_acc_median,0.8197
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=8,test_acc_min,0.8158
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=8,test_acc_max,0.8226
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=8,test_acc_median,0.8525
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=8,test_acc_min,0.8404
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=8,test_acc_max,0.8538
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=8,test_acc_median,0.8616
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=8,test_acc_min,0.8589
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=8,test_acc_max,0.8638
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=30,test_acc_median,0.1074
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=30,test_acc_min,0.1074
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=30,test_acc_max,0.1074
+LIEP-BASE,standard_ep,784-500-10 clip,0,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=30,test_acc_median,0.8158
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=30,test_acc_min,0.8158
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=30,test_acc_max,0.8158
+LIEP-BASE,standard_ep,784-500-10 clip,1,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=30,test_acc_median,0.8404
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=30,test_acc_min,0.8404
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=30,test_acc_max,0.8404
+LIEP-BASE,standard_ep,784-500-10 clip,4,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=30,test_acc_median,0.8616
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=30,test_acc_min,0.8616
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=30,test_acc_max,0.8616
+LIEP-BASE,standard_ep,784-500-10 clip,8,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 clip,30,epochs=30,test_acc_median,0.8721
+LIEP-BASE,standard_ep,784-500-10 clip,30,epochs=30,test_acc_min,0.8721
+LIEP-BASE,standard_ep,784-500-10 clip,30,epochs=30,test_acc_max,0.8721
+LIEP-BASE,standard_ep,784-500-10 clip,30,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 half,2,grid1,best_val_acc_e2,0.8612
+LIEP-BASE,standard_ep,784-500-10 half,2,grid2,best_val_acc_e2,0.8612
+LIEP-BASE,standard_ep,784-500-10 half,-1,grid1 lr=0.1 beta=0.25,chosen,1
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=8,test_acc_median,0.0918
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=8,test_acc_min,0.0708
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=8,test_acc_max,0.1648
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=8,test_acc_median,0.8365
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=8,test_acc_min,0.8334
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=8,test_acc_max,0.8378
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=8,test_acc_median,0.8633
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=8,test_acc_min,0.8619
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=8,test_acc_max,0.8636
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=8,test_acc_median,0.8749
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=8,test_acc_min,0.8671
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=8,test_acc_max,0.8752
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=8,test_acc_n,3
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=30,test_acc_median,0.0918
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=30,test_acc_min,0.0918
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=30,test_acc_max,0.0918
+LIEP-BASE,standard_ep,784-500-10 half,0,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=30,test_acc_median,0.8334
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=30,test_acc_min,0.8334
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=30,test_acc_max,0.8334
+LIEP-BASE,standard_ep,784-500-10 half,1,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=30,test_acc_median,0.8633
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=30,test_acc_min,0.8633
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=30,test_acc_max,0.8633
+LIEP-BASE,standard_ep,784-500-10 half,4,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=30,test_acc_median,0.8671
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=30,test_acc_min,0.8671
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=30,test_acc_max,0.8671
+LIEP-BASE,standard_ep,784-500-10 half,8,epochs=30,test_acc_n,1
+LIEP-BASE,standard_ep,784-500-10 half,30,epochs=30,test_acc_median,0.8848
+LIEP-BASE,standard_ep,784-500-10 half,30,epochs=30,test_acc_min,0.8848
+LIEP-BASE,standard_ep,784-500-10 half,30,epochs=30,test_acc_max,0.8848
+LIEP-BASE,standard_ep,784-500-10 half,30,epochs=30,test_acc_n,1

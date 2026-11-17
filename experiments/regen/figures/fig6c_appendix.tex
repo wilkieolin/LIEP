@@ -1,0 +1,12 @@
+%% Appendix table for Fig 6c -- generated rows from regen/figures/export.py (data/fig6c_table.tex); LIEP-6C, LIEP-EPOPT,
+%% LIEP-CLOSE. DRAFT caption for the owner to edit into the manuscript. Bold: the entries drawn in Fig 6c.
+\begin{table}[tbp]
+\centering\small
+\caption{Test accuracy after 8 epochs from scratch, every network under every training rule: median (min--max), number
+of seeds. Learning rates tuned per network and rule on a held-out 10,000 images of the training set, except the paper's
+constant-rate column. $\kappa$ 0.1: layer 2's synapses held at 0.1 of their initial scale, by projecting each row to
+its norm or (lock-in only) by a homeostatic loop on each output unit's drive amplitude. Muon is a non-local rule for
+EP as well as for backprop. Bold: the entries shown in Fig.~\ref{fig:basin}c.}
+\label{tab:fig6c_rules}
+\resizebox{\textwidth}{!}{\input{figures/data/fig6c_table}}
+\end{table}

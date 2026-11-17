@@ -1,0 +1,11 @@
+__pycache__/
+*.sif
+liep.tar
+logs/
+experiments/**/*.jls
+experiments/**/*.jld2
+experiments/**/ckpt/*
+experiments/**/provenance.toml
+.reference/
+!experiments/regen/results/recovery/pretrain.jls
+!experiments/regen/results/ckpt/lockin_B_lr3e-3_s42_e8.jls

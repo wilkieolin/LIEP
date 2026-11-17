@@ -1,0 +1,5 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,phasor_bp,784-256-64,456,0,"",test_acc,0.1
+LIEP-BASE,phasor_bp,784-256-64,456,1,"",test_acc,0.8248
+LIEP-BASE,phasor_bp,784-256-64,456,4,"",test_acc,0.8614
+LIEP-BASE,phasor_bp,784-256-64,456,8,"",test_acc,0.8674

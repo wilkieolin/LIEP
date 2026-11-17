@@ -1,0 +1,19 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
+LuxCUDA = "d0bbae9a-e099-4d5b-a835-1c6931763bda"
+OneHotArrays = "0b1bfda6-eb8a-41d2-88d8-f5af5cad476f"
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+PhasorNetworks = "c32d742c-e486-48f1-8804-9f6fb4d3f42c"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+[sources]
+PhasorNetworks = {path = "deps/PhasorNetworks.jl"}

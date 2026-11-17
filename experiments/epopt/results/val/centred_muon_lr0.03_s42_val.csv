@@ -1,0 +1,17 @@
+item,arm,model,opt,lr,seed,split,epoch,metric,value
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,0,val_acc,0.103
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,1,epoch_seconds,43.509966135025024
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,1,val_acc,0.8394
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,2,epoch_seconds,30.433338165283203
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,2,val_acc,0.853
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,3,epoch_seconds,30.273725986480713
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,4,epoch_seconds,30.20451784133911
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,4,val_acc,0.8655
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,5,epoch_seconds,29.92112898826599
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,6,epoch_seconds,30.049103021621704
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,6,val_acc,0.8689
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,7,epoch_seconds,30.10119080543518
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,8,epoch_seconds,30.19622492790222
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,8,val_acc,0.8735
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,8,collapsed,0.0
+LIEP-EPOPT,centred_muon,centred,muon,0.029999999329447746,42,val,-1,total_seconds,269.6322388648987

@@ -1,0 +1,28 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.01 beta=0.1,val_acc_e2,0.8376
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.01 beta=0.25,val_acc_e2,0.8333
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.02 beta=0.1,val_acc_e2,0.8393
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.02 beta=0.25,val_acc_e2,0.8315
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.05 beta=0.1,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.05 beta=0.25,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.1 beta=0.1,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.1 beta=0.25,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.2 beta=0.1,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-500-10 clip,42,2,lr=0.2 beta=0.25,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-500-10 clip,42,0,lr=0.02 beta=0.1 epochs=8,test_acc,0.1074
+LIEP-BASE,standard_ep,784-500-10 clip,42,1,lr=0.02 beta=0.1 epochs=8,test_acc,0.8158
+LIEP-BASE,standard_ep,784-500-10 clip,42,4,lr=0.02 beta=0.1 epochs=8,test_acc,0.8404
+LIEP-BASE,standard_ep,784-500-10 clip,42,8,lr=0.02 beta=0.1 epochs=8,test_acc,0.8616
+LIEP-BASE,standard_ep,784-500-10 clip,123,0,lr=0.02 beta=0.1 epochs=8,test_acc,0.069
+LIEP-BASE,standard_ep,784-500-10 clip,123,1,lr=0.02 beta=0.1 epochs=8,test_acc,0.8197
+LIEP-BASE,standard_ep,784-500-10 clip,123,4,lr=0.02 beta=0.1 epochs=8,test_acc,0.8525
+LIEP-BASE,standard_ep,784-500-10 clip,123,8,lr=0.02 beta=0.1 epochs=8,test_acc,0.8589
+LIEP-BASE,standard_ep,784-500-10 clip,456,0,lr=0.02 beta=0.1 epochs=8,test_acc,0.1504
+LIEP-BASE,standard_ep,784-500-10 clip,456,1,lr=0.02 beta=0.1 epochs=8,test_acc,0.8226
+LIEP-BASE,standard_ep,784-500-10 clip,456,4,lr=0.02 beta=0.1 epochs=8,test_acc,0.8538
+LIEP-BASE,standard_ep,784-500-10 clip,456,8,lr=0.02 beta=0.1 epochs=8,test_acc,0.8638
+LIEP-BASE,standard_ep,784-500-10 clip,42,0,lr=0.02 beta=0.1 epochs=30,test_acc,0.1074
+LIEP-BASE,standard_ep,784-500-10 clip,42,1,lr=0.02 beta=0.1 epochs=30,test_acc,0.8158
+LIEP-BASE,standard_ep,784-500-10 clip,42,4,lr=0.02 beta=0.1 epochs=30,test_acc,0.8404
+LIEP-BASE,standard_ep,784-500-10 clip,42,8,lr=0.02 beta=0.1 epochs=30,test_acc,0.8616
+LIEP-BASE,standard_ep,784-500-10 clip,42,30,lr=0.02 beta=0.1 epochs=30,test_acc,0.8721

@@ -1,0 +1,2 @@
+item,arm,model,seed,epoch,metric,value
+LIEP-REGEN,lockin,A,456,8,probe_test_acc,0.8806

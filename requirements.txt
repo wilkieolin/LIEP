@@ -1,0 +1,6 @@
+# figure toolchain (the versions the paper's figures were rendered with)
+numpy==2.4.3
+pandas==3.0.1
+plotly==6.6.0
+kaleido==1.2.0
+choreographer==1.2.1

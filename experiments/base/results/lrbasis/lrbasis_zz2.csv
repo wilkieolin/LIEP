@@ -1,0 +1,10 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.001 wd=0.0,val_acc,0.8602
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.001 wd=0.0001,val_acc,0.861
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.001 wd=0.001,val_acc,0.8633
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.003 wd=0.0,val_acc,0.85
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.003 wd=0.0001,val_acc,0.852
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.003 wd=0.001,val_acc,0.855
+LIEP-BASE,lrbasis,zz2,42,-1,lr=0.001 wd=0.001,test_acc,0.8565
+LIEP-BASE,lrbasis,zz2,123,-1,lr=0.001 wd=0.001,test_acc,0.8521
+LIEP-BASE,lrbasis,zz2,456,-1,lr=0.001 wd=0.001,test_acc,0.8548

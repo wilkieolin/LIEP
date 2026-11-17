@@ -1,0 +1,10 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,logreg,phase,42,-1,lr=0.001 wd=0.0,val_acc,0.8719
+LIEP-BASE,logreg,phase,42,-1,lr=0.001 wd=0.0001,val_acc,0.8719
+LIEP-BASE,logreg,phase,42,-1,lr=0.001 wd=0.001,val_acc,0.8724
+LIEP-BASE,logreg,phase,42,-1,lr=0.003 wd=0.0,val_acc,0.8534
+LIEP-BASE,logreg,phase,42,-1,lr=0.003 wd=0.0001,val_acc,0.8562
+LIEP-BASE,logreg,phase,42,-1,lr=0.003 wd=0.001,val_acc,0.8567
+LIEP-BASE,logreg,phase,42,-1,lr=0.001 wd=0.001,test_acc,0.8623
+LIEP-BASE,logreg,phase,123,-1,lr=0.001 wd=0.001,test_acc,0.8595
+LIEP-BASE,logreg,phase,456,-1,lr=0.001 wd=0.001,test_acc,0.8647

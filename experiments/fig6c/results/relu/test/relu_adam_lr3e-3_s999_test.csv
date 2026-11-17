@@ -1,0 +1,13 @@
+item,arm,model,opt,lr,kappa,seed,split,epochs,epoch,metric,value
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,0,test_acc,0.0757
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,1,test_acc,0.8597
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,2,test_acc,0.8645
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,3,test_acc,0.8776
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,4,test_acc,0.8822
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,5,test_acc,0.8881
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,6,test_acc,0.8894
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,7,test_acc,0.8933
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,8,test_acc,0.893
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,8,train_acc,0.9506833333333333
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,8,collapsed,0.0
+LIEP-6C,relu_adam,relu_784-256-64-10,adam,0.003000000026077032,"",999,test,8,-1,total_seconds,17.75989603996277

@@ -1,0 +1,28 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.02 beta=0.25,val_acc_e2,0.838
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.02 beta=0.5,val_acc_e2,0.8263
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.05 beta=0.25,val_acc_e2,0.8448
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.05 beta=0.5,val_acc_e2,0.8349
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.1 beta=0.25,val_acc_e2,0.8476
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.1 beta=0.5,val_acc_e2,0.8296
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.2 beta=0.25,val_acc_e2,0.8334
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.2 beta=0.5,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.5 beta=0.25,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-256-10 half,42,2,lr=0.5 beta=0.5,val_acc_e2,0.1023
+LIEP-BASE,standard_ep,784-256-10 half,42,0,lr=0.1 beta=0.25 epochs=8,test_acc,0.098
+LIEP-BASE,standard_ep,784-256-10 half,42,1,lr=0.1 beta=0.25 epochs=8,test_acc,0.8325
+LIEP-BASE,standard_ep,784-256-10 half,42,4,lr=0.1 beta=0.25 epochs=8,test_acc,0.8559
+LIEP-BASE,standard_ep,784-256-10 half,42,8,lr=0.1 beta=0.25 epochs=8,test_acc,0.8602
+LIEP-BASE,standard_ep,784-256-10 half,123,0,lr=0.1 beta=0.25 epochs=8,test_acc,0.0826
+LIEP-BASE,standard_ep,784-256-10 half,123,1,lr=0.1 beta=0.25 epochs=8,test_acc,0.833
+LIEP-BASE,standard_ep,784-256-10 half,123,4,lr=0.1 beta=0.25 epochs=8,test_acc,0.8637
+LIEP-BASE,standard_ep,784-256-10 half,123,8,lr=0.1 beta=0.25 epochs=8,test_acc,0.8696
+LIEP-BASE,standard_ep,784-256-10 half,456,0,lr=0.1 beta=0.25 epochs=8,test_acc,0.0846
+LIEP-BASE,standard_ep,784-256-10 half,456,1,lr=0.1 beta=0.25 epochs=8,test_acc,0.826
+LIEP-BASE,standard_ep,784-256-10 half,456,4,lr=0.1 beta=0.25 epochs=8,test_acc,0.857
+LIEP-BASE,standard_ep,784-256-10 half,456,8,lr=0.1 beta=0.25 epochs=8,test_acc,0.8617
+LIEP-BASE,standard_ep,784-256-10 half,42,0,lr=0.1 beta=0.25 epochs=30,test_acc,0.098
+LIEP-BASE,standard_ep,784-256-10 half,42,1,lr=0.1 beta=0.25 epochs=30,test_acc,0.8325
+LIEP-BASE,standard_ep,784-256-10 half,42,4,lr=0.1 beta=0.25 epochs=30,test_acc,0.8559
+LIEP-BASE,standard_ep,784-256-10 half,42,8,lr=0.1 beta=0.25 epochs=30,test_acc,0.8602
+LIEP-BASE,standard_ep,784-256-10 half,42,30,lr=0.1 beta=0.25 epochs=30,test_acc,0.8742

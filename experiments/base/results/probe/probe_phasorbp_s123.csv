@@ -1,0 +1,5 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,probe,phasorbp,123,0,"",test_acc,0.8633
+LIEP-BASE,probe,phasorbp,123,1,"",test_acc,0.8795
+LIEP-BASE,probe,phasorbp,123,4,"",test_acc,0.8822
+LIEP-BASE,probe,phasorbp,123,8,"",test_acc,0.8849

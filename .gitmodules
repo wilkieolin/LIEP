@@ -1,0 +1,3 @@
+[submodule "deps/PhasorNetworks.jl"]
+	path = deps/PhasorNetworks.jl
+	url = https://github.com/wilkieolin/PhasorNetworks.jl.git

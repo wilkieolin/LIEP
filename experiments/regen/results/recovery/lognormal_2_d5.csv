@@ -1,0 +1,14 @@
+item,arm,model,seed,metric,value
+LIEP-REGEN,clean,lognormal_2.0,5,acc_ep,0.8606
+LIEP-REGEN,damaged,lognormal_2.0,5,acc_ep,0.3161
+LIEP-REGEN,lockin,lognormal_2.0,5,acc_ep,0.7795
+LIEP-REGEN,lockin,lognormal_2.0,5,seconds,717.3039901256561
+LIEP-REGEN,centred,lognormal_2.0,5,acc_ep,0.7835
+LIEP-REGEN,centred,lognormal_2.0,5,seconds,27.99451994895935
+LIEP-REGEN,bp,lognormal_2.0,5,acc_ep,0.7868
+LIEP-REGEN,bp,lognormal_2.0,5,acc_ff,0.8057
+LIEP-REGEN,bp,lognormal_2.0,5,seconds,60.48389506340027
+LIEP-REGEN,readout_only,lognormal_2.0,5,acc_ep,0.7324
+LIEP-REGEN,readout_only,lognormal_2.0,5,acc_ff,0.7665
+LIEP-REGEN,readout_only,lognormal_2.0,5,layer1_drift,0.0
+LIEP-REGEN,readout_only,lognormal_2.0,5,seconds,33.508660078048706

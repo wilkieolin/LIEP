@@ -1,0 +1,17 @@
+item,arm,model,opt,lr,seed,split,epoch,metric,value
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,0,val_acc,0.103
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,1,epoch_seconds,357.6121039390564
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,1,val_acc,0.8296
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,2,epoch_seconds,364.5119209289551
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,2,val_acc,0.8331
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,3,epoch_seconds,368.53075885772705
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,4,epoch_seconds,381.7189130783081
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,4,val_acc,0.8682
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,5,epoch_seconds,379.6594729423523
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,6,epoch_seconds,381.28676080703735
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,6,val_acc,0.8727
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,7,epoch_seconds,381.3417909145355
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,8,epoch_seconds,379.9005448818207
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,8,val_acc,0.8752
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,8,collapsed,0.0
+LIEP-EPOPT,lockin_adam,lockin,adam,0.0010000000474974513,42,val,-1,total_seconds,3011.8956151008606

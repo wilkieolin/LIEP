@@ -1,0 +1,5 @@
+item,arm,model,seed,epoch,setting,metric,value
+LIEP-BASE,relu_bp,784-500-10,456,0,epochs=8,test_acc,0.0532
+LIEP-BASE,relu_bp,784-500-10,456,1,epochs=8,test_acc,0.856
+LIEP-BASE,relu_bp,784-500-10,456,4,epochs=8,test_acc,0.8731
+LIEP-BASE,relu_bp,784-500-10,456,8,epochs=8,test_acc,0.881

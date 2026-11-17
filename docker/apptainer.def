@@ -1,0 +1,12 @@
+# LIEP image for HPC hosts (Apptainer/Singularity), built from the Docker image.
+#   docker build -f docker/Dockerfile -t liep . && docker save liep -o liep.tar
+#   apptainer build liep.sif docker/apptainer.def
+#   apptainer run --nv --bind $PWD:/opt/liep liep.sif make figures      # --nv for GPU jobs
+Bootstrap: docker-archive
+From: liep.tar
+
+%environment
+    export PATH=/opt/venv/bin:$PATH BROWSER_PATH=/usr/bin/chromium LANG=C.UTF-8
+
+%runscript
+    cd /opt/liep && exec /usr/local/bin/liep-entry "$@"

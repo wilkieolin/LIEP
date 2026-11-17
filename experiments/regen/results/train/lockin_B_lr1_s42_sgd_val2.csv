@@ -1,0 +1,11 @@
+item,arm,model,seed,lr,epoch,metric,value
+LIEP-REGEN,lockin,B,42,1.0,0,val_acc_10k,0.103
+LIEP-REGEN,lockin,B,42,1.0,0,val_acc_2k,0.0975
+LIEP-REGEN,lockin,B,42,1.0,1,epoch_seconds,231.66831421852112
+LIEP-REGEN,lockin,B,42,1.0,1,val_acc_10k,0.785
+LIEP-REGEN,lockin,B,42,1.0,1,val_acc_2k,0.7815
+LIEP-REGEN,lockin,B,42,1.0,2,epoch_seconds,200.62678980827332
+LIEP-REGEN,lockin,B,42,1.0,2,val_acc_10k,0.826
+LIEP-REGEN,lockin,B,42,1.0,2,val_acc_2k,0.826
+LIEP-REGEN,lockin,B,42,1.0,2,collapsed,0.0
+LIEP-REGEN,lockin,B,42,1.0,2,total_seconds,434.4832692146301

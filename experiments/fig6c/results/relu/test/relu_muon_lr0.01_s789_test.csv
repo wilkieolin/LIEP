@@ -1,0 +1,13 @@
+item,arm,model,opt,lr,kappa,seed,split,epochs,epoch,metric,value
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,0,test_acc,0.0852
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,1,test_acc,0.8655
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,2,test_acc,0.8854
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,3,test_acc,0.8837
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,4,test_acc,0.885
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,5,test_acc,0.8894
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,6,test_acc,0.8875
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,7,test_acc,0.8875
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,8,test_acc,0.888
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,8,train_acc,0.9993333333333333
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,8,collapsed,0.0
+LIEP-6C,relu_muon,relu_784-256-64-10,muon,0.009999999776482582,"",789,test,8,-1,total_seconds,29.689298152923584
