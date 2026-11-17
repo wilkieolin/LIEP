@@ -93,3 +93,7 @@ apptainer run --nv --bind $PWD:/opt/liep liep.sif scripts/run_jobs.sh -P 3 jobs/
 
 The entry point keeps a writable Julia depot in `~/.julia-liep` in front of the image's read-only one. Set
 `JULIA_USER_DEPOT` to put it elsewhere.
+
+## License
+
+MIT, the same terms as PhasorNetworks.jl (UChicago Argonne, LLC); see `LICENSE`.
